@@ -23,16 +23,15 @@ class Student {
 
     void cal() {
         individualtmks = assign1mks + assign2mks + promks;
-        double per = (individualtmks / 300) * 100;
-        if (per >= 60) {
-            grade = "A";
-        } else if (per >= 50 && per <= 59) {
-            grade = "B";
-        } else if (per >= 40 && per <= 49) {
-            grade = "C";
-        } else if (per >= 35 && per <= 39) {
+        if (individualtmks >= 85) {
+            grade = "HD";
+        } else if (invidualtmks >= 75 && invidualtmks <85) {
             grade = "D";
-        } else {
+        } else if (individualtmks >= 65 && per <75) {
+            grade = "C";
+        } else if (individualtmks > 50 && per <65) {
+            grade = "P";
+        } else if(individualtmks <50){
             grade = "F";
         }
     }
