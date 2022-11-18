@@ -12,28 +12,31 @@ How to run in Command Prompt:
 ```
 ## Screenshots:  
 ### Menu->
-![Screenshot 2022-11-18 084727](https://user-images.githubusercontent.com/118475181/202609679-e581f605-945a-40f3-9760-4f0e3884fdbe.png)
+![Screenshot 2022-11-18 215113](https://user-images.githubusercontent.com/118475181/202752339-07a7cb40-f2bb-4f23-8eff-9c47e1eae682.png)
 
 ## Inserting Records->
-![Screenshot 2022-11-18 092513](https://user-images.githubusercontent.com/118475181/202618289-7e1b027f-3236-44ac-8a8b-32cdcdcb58d8.png)  
-![Screenshot 2022-11-18 091849](https://user-images.githubusercontent.com/118475181/202613667-56c1854d-7299-4e25-a5a7-b90ea58e8cf4.png)  
-![Screenshot 2022-11-18 091941](https://user-images.githubusercontent.com/118475181/202613678-d8459cd3-63cb-43be-aa1f-3b27953d5ca8.png)  
-![Screenshot 2022-11-18 092015](https://user-images.githubusercontent.com/118475181/202613685-93051f0c-508a-4185-8cb2-639d50f8cc3e.png)  
+ ![Screenshot 2022-11-18 215321](https://user-images.githubusercontent.com/118475181/202753301-382a7061-92fe-4a45-8ab1-42398f66bbe2.png)  
+![Screenshot 2022-11-18 215445](https://user-images.githubusercontent.com/118475181/202753355-44a9b360-5d8e-4f4a-988f-0e997f53710b.png)  
+![Screenshot 2022-11-18 215535](https://user-images.githubusercontent.com/118475181/202753376-94a40076-2b18-4071-b205-97f19a304f03.png)  
+![Screenshot 2022-11-18 215606](https://user-images.githubusercontent.com/118475181/202753389-62f32c24-5054-4320-b6f3-94ddee7ee4b9.png)  
+
 
 ## Displaying Grades->
-![Screenshot 2022-11-18 101401](https://user-images.githubusercontent.com/118475181/202618863-900932af-c368-434b-abc8-4517c789f3d9.png)  
+ ![Screenshot 2022-11-18 215835](https://user-images.githubusercontent.com/118475181/202753799-5bd7c4f2-631a-4216-b718-01f34fc64ae6.png)  
+
 
 ## Displaying Statistics->
-![Screenshot 2022-11-18 101718](https://user-images.githubusercontent.com/118475181/202642143-beba23d3-bf0b-4405-a4b9-c0864687eb38.png)  
-![Screenshot 2022-11-18 101749](https://user-images.githubusercontent.com/118475181/202642164-bcb8859a-1c00-434f-a047-ab894cf8aa91.png)  
-![Screenshot 2022-11-18 101826](https://user-images.githubusercontent.com/118475181/202619269-9ab12eae-5044-4447-8bf2-63d5384ab3af.png)  
+![Screenshot 2022-11-18 215957](https://user-images.githubusercontent.com/118475181/202754761-c0c1d7e1-5bf9-4732-8db3-bbd9f0bc58fd.png)  
+![Screenshot 2022-11-18 220215](https://user-images.githubusercontent.com/118475181/202754780-1add807a-b77c-4298-b7c0-03c898729746.png)  
+![Screenshot 2022-11-18 220252](https://user-images.githubusercontent.com/118475181/202754797-5400fe72-2926-4b0a-b612-0d5b17b26d12.png)  
+
 
 ## Invalid Choice->
-
-![Screenshot 2022-11-18 125657](https://user-images.githubusercontent.com/118475181/202645484-3564b218-7251-4ea6-9e39-9857bf0d6d09.png)
+![Screenshot 2022-11-18 220503](https://user-images.githubusercontent.com/118475181/202755139-dbd6f43d-7d2f-460a-83eb-92750fd0c8eb.png)  
 
 ## Exit Message->
-![Screenshot 2022-11-18 125804](https://user-images.githubusercontent.com/118475181/202645690-72a26d1f-7d47-4577-91b8-e2e5ea1a0ccf.png)
+![Screenshot 2022-11-18 220556](https://user-images.githubusercontent.com/118475181/202755479-c0a1f554-22a1-4221-bf37-24b11b0894f5.png)  
 
+### End of Assignment.
 ### Thank You
 
